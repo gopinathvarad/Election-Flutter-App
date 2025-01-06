@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822298415733",
+    "project_id": "election-app-kqqlvc",
+    "storage_bucket": "election-app-kqqlvc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822298415733:android:caf7dd8280fdebeaf59e3c",
+        "android_client_info": {
+          "package_name": "com.mycompany.electionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGDrOXfsGx12Rc5MJcJ8cdSvifm7IHRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
